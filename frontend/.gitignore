@@ -27,3 +27,4 @@ npm-debug.log*
 # Python
 *.egg-info/
 __pycache__/
+.vercel
